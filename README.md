@@ -1,2 +1,2 @@
 # DSA
-This repo is dsa problems in java
+This repo is dsa problems 
